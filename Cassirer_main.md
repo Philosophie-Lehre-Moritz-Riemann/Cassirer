@@ -33,10 +33,10 @@ narrator: UK English Female
 | 06.05.2026  |IV Die Welt von Raum und Zeit        |      kein Referat             |
 | 13.05.2026  |V Tatsachen und Ideen               |         kein Referat          |
 | 20.05.2026  |VI Zur kulturphilosophischen Bestimmung des Menschen                |kein Referat                   |
-| 27.05.2026  |VII Mythos und Religion                  | kein Referat                   |
-| 03.06.2026  |VIII Sprache                 |Referat                   |
+| 27.05.2026  |VII Mythos und Religion                  | Referat: Henrik Herterich                   |
+| 03.06.2026  |VIII Sprache                 |Referat: Elmas Ülker                   |
 | 10.06.2026  |Sitzung entfällt                 |                 |
-| 17.06.2026  |IX Kunst                  |             Referat      |
+| 17.06.2026  |IX Kunst                  |             Referat: Alexandra Misyura      |
 | 24.06.2026  |X Geschichte               |     Referat              |
 | 01.07.2026  |XI Wissenschaft              |  Referat                 |
 | 08.07.2026  |XII Zusammenfassung und Schlussfolgerungen; Abschlussdiskussion                  |kein Referat                   |
