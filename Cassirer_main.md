@@ -37,7 +37,7 @@ narrator: UK English Female
 | 03.06.2026  |VIII Sprache                 |Referat: Elmas Ülker                   |
 | 10.06.2026  |Sitzung entfällt                 |                 |
 | 17.06.2026  |IX Kunst                  |             Referat: Alexandra Misyura      |
-| 24.06.2026  |X Geschichte               |     Referat              |
+| 24.06.2026  |X Geschichte               |     Referat: Madeleine Utesch              |
 | 01.07.2026  |XI Wissenschaft              |  Referat                 |
 | 08.07.2026  |XII Zusammenfassung und Schlussfolgerungen; Abschlussdiskussion                  |kein Referat                   |
 
